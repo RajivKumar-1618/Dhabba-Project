@@ -1,0 +1,37 @@
+.container {
+  height: 100vh;
+}
+/* .footer-div{
+    position: fixed;
+  bottom: 0;
+  left: 0;
+} */
+
+/* main-content */
+.about-main-box {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: auto;
+  height: 85vh;
+  /* background-color: aqua; */
+  /* border: 0.01vh solid black; */
+  margin: 0px 30vh;
+  padding: 15vh;
+  gap: 4vh;
+}
+#About-heading {
+  font-size: 5vh;
+  align-self: start;
+}
+#About-para {
+  display: flex;
+  flex-direction: column;
+  gap: 2vh;
+  font-size: 3vh;
+  text-align: justify;
+}
+#greeting {
+  font-size: 2.5vh;
+}
