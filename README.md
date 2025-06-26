@@ -1,5 +1,6 @@
 # 🍛 Welcome to Dhabba
-Author : RAJIV KUMAR GOND     with     Github ID : RajivKumar-1618
+Author : RAJIV KUMAR GOND
+Github ID : RajivKumar-1618
 
 **Dhabba** is your go-to destination for **fresh, homestyle Indian meals**! We bring you the authentic taste of a traditional dhabba, offering delicious and wholesome food made with love and the finest ingredients.
 
